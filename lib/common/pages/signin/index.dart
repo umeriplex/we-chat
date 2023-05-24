@@ -1,0 +1,22 @@
+library signin;
+
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export 'controller.dart';
+export 'state.dart';
+export 'view.dart';
+export '../../values/colors.dart';
+export '../../values/shadows.dart';
+export 'package:google_sign_in/google_sign_in.dart';
+export 'package:cloud_firestore/cloud_firestore.dart';
+export 'package:firebase_chat/common/entities/entities.dart';
+export 'package:firebase_chat/common/store/store.dart';
+export '../../widgets/toast.dart';
+export 'binding.dart';
+export '../../routes/pages.dart';
+export '../../routes/names.dart';
+export 'package:firebase_auth/firebase_auth.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'package:firebase_chat/common/values/image_address.dart';
+export 'package:dots_indicator/dots_indicator.dart';
